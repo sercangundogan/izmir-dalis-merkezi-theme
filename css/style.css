@@ -1,0 +1,29 @@
+a {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+#service-image {
+    transition: opacity 0.2s ease-in; 
+}
+
+#service-image:hover {
+    opacity: 0.8;
+}
+
+#gallery-image {
+    transition: all 0.2s ease-in; 
+}
+
+#gallery-image:hover {
+    opacity: 0.8;
+}
